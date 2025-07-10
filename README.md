@@ -39,7 +39,7 @@ This project analyzes customer churn behavior for **CloudSync**, a B2B SaaS coll
 ## ⚙️ How to Run the Project
 
 1. Place the dataset (`WA_Fn-UseC_-Telco-Customer-Churn.csv`) in the same directory as the notebook.
-2. Open `task3_python_analysis.ipynb` using Jupyter Notebook.
+2. Open `Task 3 Data Analysis & Modelling .ipynb` using Jupyter Notebook.
 3. Run all cells sequentially to explore data insights and predictive results.
 4. Open `.sql` files in MySQL Workbench or compatible client to run SQL analyses.
 
