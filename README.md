@@ -55,6 +55,5 @@ This project analyzes customer churn behavior for **CloudSync**, a B2B SaaS coll
 
 ## 📬 Contact
 
-*Prepared by*: [Your Name]  
+*Prepared by*: Ravi Prashanth.R  
 *Role*: Data/Product Analyst  
-*Date*: [Submission Date]  
