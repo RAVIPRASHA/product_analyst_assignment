@@ -9,10 +9,10 @@ This project analyzes customer churn behavior for **CloudSync**, a B2B SaaS coll
 
 | File Name                         | Description                                                  |
 |----------------------------------|--------------------------------------------------------------|
-| `task1_data_quality_mysql.sql`   | SQL queries for detecting missing values, outliers, and inconsistencies |
-| `task2_sql_analysis_mysql.sql`   | SQL queries for churn analysis by cohort, contract type, and features |
-| `task3_python_analysis.ipynb`    | Jupyter Notebook for data cleaning, EDA, and churn prediction |
-| `executive_summary.docx`         | Strategic recommendations and implementation roadmap         |
+| `Task1_data_quality_mysql.sql`   | SQL queries for detecting missing values, outliers, and inconsistencies |
+| `Task2_sql_analysis_mysql.sql`   | SQL queries for churn analysis by cohort, contract type, and features |
+| `Task 3 Data Analysis & Modelling .ipynb`    | Jupyter Notebook for data cleaning, EDA, and churn prediction |
+| `task4_executive_summary.docx`         | Strategic recommendations and implementation roadmap         |
 | `README.md`                      | This documentation file                                      |
 
 ---
